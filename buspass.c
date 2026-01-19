@@ -61,7 +61,8 @@ void dequeue() {
 }
 
 
-void display() {
+void display() 
+{
     int i;
 
     if (isEmpty()) {
